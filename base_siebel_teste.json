@@ -1,0 +1,46 @@
+{
+    "id": "M0o1O2c3K4s5I6e7B8e9L",
+    "title": "Moock Siebel Teste",
+    "operation": "TMX",
+    "description": {
+        "Title": "Abrimos o chamado abaixo, favor providenciar o atendimento como solicitado.",
+        "Chamado_Cliente": "1-3009255995",
+        "Tel_Funcionario": "",
+        "Estado": "PE",
+        "PostalCode": "50010520",
+        "Fornecedor": "ECONOCOM",
+        "Num_Logradouro": "148",
+        "Nome_Funcionario": "PAULO HENRIQUE DE OLIVEIRA",
+        "Nome_Fantasia": "AG RUA DA CONCORDIA - (CENIM)",
+        "Logradouro": "Rua da Concórdia Santo Antônio",
+        "Dado_Funcionario": {
+            "Nome": "PAULO HENRIQUE DE OLIVEIRA",
+            "Fone": "",
+            "e-mail": "",
+            "ClienteId": 1115
+        },
+        "Cidade": "Recife",
+        "Descrição": "DESCRIÇÃO DO PROBLEMA: ENVIAR TÉCNICO PARA VERIFICAR CONEXÃO INTERFACE G04 VELOCLOUD X MODEM OPERADORA. OBS: LEVAR CABO DE REDE, CONECTORES E NOTEBOOK. OBS: SÓ ENVIAR TECNICO COM CONFIRMAÇÃO DE LIBERAÇÃO. OBS: FAVOR LEVAR NOTEBOOK, CABO UTP, CABO CONSOLE, CONECTORES, SOBRESSALENTE (CASO NECESSÁRIO UTILIZAR), MULTÍMETRO.",
+        "PrimeID": "BRAD#0289-00#01",
+        "Tipo": {
+            "Descrição": "AG RUA DA CONCORDIA - (CENIM)",
+            "Endereço": "Rua da Concórdia, 148 Santo Antônio",
+            "Cidade": "Recife",
+            "UF": "PE",
+            "Contato_do_Cliente_no_Local": "TELEFONE:"
+        },
+        "Contato_Telmex": "(11) 3488 3435 CO RCE",
+        "Data_Agendamento": "12/04/2024 09:04:38",
+        "Cod_Motivo_Agend": "Motivo Cliente",
+        "Tipo_Atend_Desc": "Manutenção Corretiva",
+        "Tipo_Atendimento": "000000",
+        "No_da_Ordem": "",
+        "Severidade": "Normal",
+        "Criado_em": "12/04/2024 09:04:18",
+        "Observação": "Estamos à disposição para maiores esclarecimentos.",
+        "Atenciosamente": "Produção Primesys",
+        "Empresa": "Primesys S/A",
+        "Tel": "(11) 3488 3435"
+    },
+    "status": "Aberto"
+}
